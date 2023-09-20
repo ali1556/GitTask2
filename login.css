@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  #signup-form, #login-form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .toplogin{
+    color:#102c57
+  }
+  .buttomtext{
+    color:#102c57
+  }
+  .buttomsignup{
+    color: #ea1179;
+    text-decoration-line: none;
+  }
+  .sign{
+    height: 20px;
+    border-radius: 10px;
+  }
+  .logbutt{
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 6rem;
+    padding: 5px 0px 5px 0px;
+    font-weight: bold;
+    background-color: #e8f0fe;
+  }
+  .border{
+    border: 3px solid #102c57;
+    border-radius: 20px;
+    margin: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+  *{
+    background-color: rgb(202, 211, 219);
+  }

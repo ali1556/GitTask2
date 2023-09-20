@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-top: 1rem;
+  }
+  
+  #signup-form, #login-form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .signupbox{
+    height: 20px;
+    border-radius: 10px;
+  }
+  .signinbox{
+    height: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  .signbutt{
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 6rem;
+    padding: 5px 0px 5px 0px;
+    font-weight: bold;
+    background-color: #e8f0fe;
+  }
+  .topsignup{
+    color:#102c57
+  }
+  .secvurud{
+    color: #ea1179;
+    text-decoration-line: none;
+  }
+  .form-select{
+    height: 20px;
+    border-radius: 8px;
+    width: 277px;
+    text-align: center;
+    background-color: #e8f0fe;
+  }
+  .border{
+    border: 3px solid #102c57;
+    border-radius: 20px;
+    margin: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+  *{
+    background-color: rgb(202, 211, 219);
+  }
